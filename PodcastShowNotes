@@ -1,0 +1,69 @@
+
+<!-- replace the words inside [...] bracket with your information -->
+
+<h4>Date: [..]
+<br>Episode #: [...]
+<br>Title: [...] Subtitle: [...]
+<br>Final Show Link: <a href="[website url]">[...]</a>
+<p>
+<!-- use link to your chosen website inside the ".." -->
+<a href="https://www.google.com" target="_blank">
+<!-- use image of either your host, logo, or guest inside the ".." -->  
+<img src="https://cdn.pixabay.com/photo/2017/02/07/16/47/kingfisher-2046453_960_720.jpg"/></a>
+ </p> 
+<!-- replace the words inside [...] bracket with your information -->
+<ul>
+<h2>
+Welcome to [Season and Episode number] of [Your Podcast Title] with <i>[Replace this Host(s) name and info - <a href="[website url]" target="_blank">website</a>]</i>.
+
+<p><i>Optional</i>  --  Our guest for today/this episode is [name] of [brand-  <a href="[website url]" target="_blank">website</a>].
+
+ S/he is the [background and latest promotion - <a href="[website url]" target="_blank"> website</a>].</p>
+
+In this episode, we will talk about/find out [topic discussion <i>explain in 2 sentences + 1 quote from the guest if applicable</i>.]               
+<a href="https://clicktotweet.com/" target="_blank"> [ClicktoTweet]</a>
+</h2>
+
+<ul>
+<h3>
+Come join in the great conversations that happen on our live chat, in our comments section, and social media
+</h3>
+<ul>
+<li> <a href="http://www.facebook.com/[url]" target="_blank">[social platform #1]</a> </li>
+<li> <a href="http://www.Instagram.com/[url]" target="_blank">[social platform #2]</a> </li>
+<li> <a href="http://www.Linkedin.com/[url]" target="_blank">[social platform #3]</a> </li>
+</ul>
+ <h4>This episode is sponsored by/ brought to you by <a href="[website url]" target="_blank">[Brand name],</a><i>[and tagline]</i> </h4>
+
+<ul>
+<h4>Links mentioned </h4>
+
+<li> <a href="[website url]">[link#1]</a></li>
+<li> <a href="[website url]">[link#2]</a></li>
+<li> <a href="[website url]">[link#3]</a></li>
+</ul>
+</ul>
+
+<h3>To get more of [Podcast title] and [brand name - <i>if applicable</i>]</h3>
+<ul>
+<li> <a href="[website url]" target="_blank">[podcast title]</a></li>
+<li> <a href="[website url]" target="_blank">[blog title]</a></li>
+<li> <a href="[website url]" target="_blank">[video title]</a></li>
+
+<h3>Episode Length [00:00:00]</h3>
+<ul>
+<li> <a href="[website url]">[00:00:00] </a>subtopic #1</li>
+<li> <a href="[website url]">[00:00:00] </a>subtopic #2</li>
+<li> <a href="[website url]">[00:00:00] </a>subtopic #3</li>
+</ul>
+
+<h3>Download Options</h3>
+<ul>
+<li><b>Direct Download:</b> Right-click <a href="[website url]" target="_blank">here</a> and click "<i>Save As</i>" for a direct download.</li>
+<li><b>iTunes:</b> Listen, subscribe, and leave a review for <a href="[website url]" target="_blank">[podcast title]</a> on iTunes for free!</li>
+<li>Or download to your <b>Android</b> device using <a href="[website url]" target="_blank">[other podcast platforms you are using]</a></li>
+</ul>
+</ul>
+
+<h2> Join us again next week for [next episode topic]!</h2>
+</ul>
