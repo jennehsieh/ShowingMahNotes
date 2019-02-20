@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<meta charset="utf-8"> 
+    	<title>About journey</title>
+    </head>
+
+    <body>
+    	
+    	<header>
+    	  <nav>
+    		<div>
+    			<a href="https://www.geekpack.co" target="_blank"><img src="images/geekpack.png" alt="Geekpack logo"/></a>
+    		</div>
+    		<div>
+    			<a href="index.html">HOME</a>
+    			<a href="about.html">ABOUT</a>
+    		</div>
+    	  </nav>
+    	</header>	
+
+    	<div>
+    	  <h1>About my WP journey</h1>
+    	</div>
+
+    	<div>
+    	   <div>
+    	     <img src="https://accordingtoblue.com/wp-content/uploads/2018/01/JuliaBlue.jpg" alt="Julia and Blue">
+    	   </div>    
+        
+         <div>
+           <h2>Hi, I'm Jenne</h2>
+           <p> I am a self taught web developer, I am diving into WordPress and my goal is to be an intern in WP company.</p>
+           <h4>This is a picture of a bird that means something to me and my husband.</h4>
+           <p>It's a logo of a place where we met</p>
+           <!--insert embed here-->
+         </div>
+        </div>
+            
+        <footer>
+        	<a href="https://geekpack.co"><img src="images/geekpack.png" alt="GeekPack logo"/></a>
+        	<p>Copyright 2018 | All Right Reserved</p>
+        </footer>
+
+    </body>
+</html>
