@@ -1,0 +1,67 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Montserrat';
+}
+header {
+	background: #231f20;
+}
+
+.logo img {
+	width: 100px; 
+} 
+
+nav {
+	max-width: 1200px;
+	margin: 0 auto;
+	overflow: auto;
+    padding: 20px;
+}
+
+/* logo float left, navigation float right */ 
+
+.logo {
+	float: left;
+}
+
+#navigation {
+	float: right;
+	margin-top: 15px; 
+}
+
+#navigation a {
+	font-family: 'Monterrat';
+	color: #fff;
+	text-decoration: none; /*remove underline*/
+	padding: 20px;
+	font-size: 20px;
+}
+
+#navigation a:hover {
+	color: #d4c2a9; /*for color of hovering the link*/
+}
+
+.wrap {
+	width: 800px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+#section-one{
+	text-align: center;
+
+}
+
+#section-one img{
+	width: 800px;
+}
+
+#section-one nav a{
+	font-family: "Montserrat";
+	text-decoration: none;
+	color: #116a58;
+	padding: 20px; 
+}
