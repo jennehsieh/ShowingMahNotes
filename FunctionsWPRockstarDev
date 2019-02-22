@@ -1,0 +1,22 @@
+<?php
+
+function mychildtheme_enqueue_styles() {
+$parent_style = 'parent-style';
+
+	wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
+	wp_enqueue_style( 'child-style',
+		get_stylesheet_directory_uri() . '/style.css',
+	array( $parent_style )
+   );
+}
+add_action( 'wp_enqueue_scripts', 'mychildtheme_enqueue_styles' );
+
+
+function change_custom_logo_size() {
+add_theme_support( 'custom-logo', array(
+'height' => 400, /*customize this and below based on your file*/
+'width' => 400,
+'flex-width' => true,
+) );
+}
+add_action( 'after_setup_theme', 'change_custom_logo_size', 30 );
