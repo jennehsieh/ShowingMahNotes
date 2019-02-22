@@ -1,0 +1,37 @@
+/*
+Theme Name: WP Rockstar Dev
+Description: The custom theme WP Rockstar Dev using the parent theme
+Twenty Seventeen
+Author: Jenné Suryadihardja
+Author URI: https://jt-digitalmedia.com/
+Template: twentyseventeen 
+Version: 1
+*/
+
+.page-title {
+	color: red;
+}
+
+h2.widget-title {
+	color: #0099ff;
+}
+
+.entry-meta a{
+	color: #66ccff;
+}
+
+.entry-title {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+blockquote {
+    color: #339999; /*if it doesn't take effect type !important*/
+    font-size: 18px;
+    font-size: 1.125rem;
+    font-style: italic;
+    line-height: 1.7;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 60px 0 30px; /*top right bottom left*/
+}
